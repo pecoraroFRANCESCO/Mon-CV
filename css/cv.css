@@ -1,0 +1,88 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.section p {
+	margin-bottom: 37px;
+}
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+.photo{
+	float: right;
+	margin-top: -125px;
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.sec-droite{
+	text-align: right;
+	margin-top: 37px;
+}
+
+.forma-droite{
+
+}
+
+.forma-gauche p{
+	margin-top: 32px;
+	margin-bottom: 50px;
+}
+
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388DD;
+}
+
+.strong{
+	font-size: 26px;
+}
+
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.duree{
+	font-weight: normal;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.section_2{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.droite{
+	float: right;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top: 37px;
+}
